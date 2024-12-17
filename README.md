@@ -1,7 +1,7 @@
 ### Hi there!  I’m **Hassanullah Usmani** 🖐
 
-
-### 👨‍💻 Abote Me
+<p> I am a Full-Stack Developer with over three years of experience in web development. I have worked as a back-end developer at ** Entire Thinkers Technology ** and am currently working as a Full-Stack Developer at the ** Ministry of Transport and Aviation**. </p>
+### 👨‍💻 About Me
 
 - 💼 **Currently working at:** Entire Thinkers Technology and the Ministry of Transport and Aviation.
 - ⚡ **Role:** Working as a Full-Stack Developer with a focus on LRTM.
