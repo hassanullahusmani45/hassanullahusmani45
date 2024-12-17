@@ -1,7 +1,7 @@
 ### Hi there!  I’m **Hassanullah Usmani** 🖐
 
 
-  I am a Full-Stack Developer with over three years of experience in web development. I have worked as a back-end developer at **Entire Thinkers Technology** and am currently working as a Full-Stack Developer at the **Ministry of Transport and Aviation** in Afghanistan contry. 
+  I’m a Full-Stack Developer with over three years of experience in web development. I have worked as a back-end developer at **Entire Thinkers Technology** and am currently working as a Full-Stack Developer at the **Ministry of Transport and Aviation** in Afghanistan contry. 
 
 
 
