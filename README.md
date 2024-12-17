@@ -32,8 +32,30 @@
 <br/>
 <br/>
 
-### 🌟 My GitHub Stats
+### 🌟 My GitHub Stats and Top Languages
 <br/>
 
-[![hassanullahusmani GitHub stats](https://github-readme-stats.vercel.app/api?username=hassanullahusmani45&show_icons=true&theme=transparent&hide=contribs)](https://github.com/anuraghazra/github-readme-stats)
-  
+<span>
+   <img alt="hassanullahusmani GitHub stats" src="https://github-readme-stats.vercel.app/api?username=hassanullahusmani45&show_icons=true&theme=transparent&hide=contribs)](https://github.com/anuraghazra/github-readme-stats"/>
+
+  <img alt="Top Langs" src="https://github-readme-stats.vercel.app/api/top-langs/?username=hassanullahusmani45&layout=compact"/>
+<span/>
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
