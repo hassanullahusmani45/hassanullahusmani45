@@ -1,4 +1,5 @@
-<img src="https://github.com/hassanullahusmani45/hassanullahusmani45/blob/main/banner.jpeg?raw=true"/>
+<img src="https://github.com/hassanullahusmani45/hassanullahusmani45/blob/main/Black and Yellow Web Developer LinkedIn Banner.png?raw=true"/>
+
 <br/>
 
 ### Hi there!  I’m **Hassanullah Usmani** 🖐
