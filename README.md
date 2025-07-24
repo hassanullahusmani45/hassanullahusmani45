@@ -4,7 +4,9 @@
 ### Hi there!  I’m **Hassanullah Usmani** 🖐
 <br/>
 
-  I’m a Full-Stack Developer with over three years of experience in web development. I have worked as a back-end developer at **Entire Thinkers Technology** and am currently working as a Full-Stack Developer at the **Ministry of Transport and Aviation** in Afghanistan contry. 
+  I’m a Full-Stack Developer with over 2 years of hands-on experience building modern and responsive web applications.
+I previously worked as a Full-Stack Developer at **Entire Thinkers Technology**, and I’m currently work as a Frontend Developer at the **Ministry of Finance**, Afghanistan.I specialize in technologies such as **React, Laravel, JavaScript, Tailwind CSS, TypeScript, MySQL and REST APIs**, and I enjoy crafting clean, scalable, and user-focused web interfaces.
+
 
 <br/>
 <br/>
@@ -12,8 +14,8 @@
 ### 👨‍💻 About Me
 <br/>
 
-- 💼 **Currently working at:** Entire Thinkers Technology and the Ministry of Transport and Aviation.
-- ⚡ **Role:** Working as a Full-Stack Developer with a focus on LRTM.
+- 💼 **Currently working at:** Ministry of Finance.
+- ⚡ **Role:** Working as a Frontend Developer with a focus on LRTM.
 - 👯 **Looking to:** Join leading companies as a developer and contribute to innovative projects.
 - 🎓 **Education:** Graduated from Nangarhar University, Faculty of Computer Science.
 - 🌿 **I love:** Coding, sports, tea, and pursuing my hobbies.
