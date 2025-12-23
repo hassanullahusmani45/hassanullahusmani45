@@ -6,7 +6,7 @@
 <br/>
 
   I’m a Full-Stack Developer with over 2 years of hands-on experience building modern and responsive web applications.
-I previously worked as a Full-Stack Developer at **Entire Thinkers Technology**, and I’m currently work as a Frontend Developer at the **Ministry of Finance**, Afghanistan.I specialize in technologies such as **React, Laravel, JavaScript, Tailwind CSS, TypeScript, MySQL and REST APIs**, and I enjoy crafting clean, scalable, and user-focused web interfaces.
+I previously worked as a Full-Stack Developer at **Entire Thinkers Technology**, and I’m currently work as a Frontend Developer at the **Ministry of Finance**, Afghanistan.I specialize in technologies such as **React, Node, Express, Laravel, JavaScript, Tailwind CSS, TypeScript, MySQL and REST APIs**, and I enjoy crafting clean, scalable, and user-focused web interfaces.
 
 
 <br/>
